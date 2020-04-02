@@ -18,7 +18,7 @@ class Obj {
 
         this.host           = '172.30.52.93' // 127.0.0.1
         this.port           = 3306
-        this.db             = 'serverDB'
+        this.db             = 'mariadb' //serverDB
         this.usr            = 'user'
         this.pwd            = '8ase2pwd'
         this.pool           = null
