@@ -19,7 +19,7 @@ class Obj {
         this.host           = '109.237.25.44'
         this.port           = 3306
         this.db             = 'serverDB_apalacios'
-        this.usr            = 'user'
+        this.usr            = 'apalacios'
         this.pwd            = '8ase2pwd'
         this.pool           = null
 
