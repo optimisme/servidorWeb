@@ -7,11 +7,11 @@
     "name": "Nom de l'autor",
     "email": "autor@exemple.com"
   },
-  "homepage": "http://www.exemple.com/",
+  "homepage": "http://www.exemple2.com/",
   "private": true,
   "dependencies": {
     "crypto": "latest",
-    "express": "latest",
+    "express": "^4.17.1",
     "mysql": "latest",
     "supervisor": "latest"
   },
