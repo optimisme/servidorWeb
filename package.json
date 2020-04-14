@@ -7,7 +7,7 @@
     "name": "Nom de l'autor",
     "email": "autor@exemple.com"
   },
-  "homepage": "http://www.exemple.com/",
+  "homepage": "http://www.exemple2.com/",
   "private": true,
   "dependencies": {
     "crypto": "^1.0.1",
