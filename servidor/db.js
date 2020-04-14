@@ -16,9 +16,9 @@ class Obj {
     // Configura aquí la connexió amb la base de dades
     constructor () {
 
-        this.host           = '127.0.0.1'
+        this.host           = '109.237.25.44'
         this.port           = 3306
-        this.db             = 'serverDB'
+        this.db             = 'serverDB_apalacios'
         this.usr            = 'user'
         this.pwd            = '8ase2pwd'
         this.pool           = null
@@ -26,6 +26,7 @@ class Obj {
         this.logCyan        = '\x1b[36m%s\x1b[0m '
         this.logYellow      = '\x1b[33m%s\x1b[0m '
     }
+
 
     // Inicia la connexió amb la base de dades
     init () {
