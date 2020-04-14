@@ -7,13 +7,13 @@
     "name": "Nom de l'autor",
     "email": "autor@exemple.com"
   },
-  "homepage": "http://www.exemple2.com/",
+  "homepage": "http://www.exemple.com/",
   "private": true,
   "dependencies": {
-    "crypto": "latest",
+    "crypto": "^1.0.1",
     "express": "^4.17.1",
-    "mysql": "latest",
-    "supervisor": "latest"
+    "mysql": "^2.18.1",
+    "supervisor": "^0.12.0"
   },
   "devDependencies": {},
   "bundleDependencies": [],
