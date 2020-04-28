@@ -42,7 +42,13 @@ body > #frontendProductes {
     display: none;
 }
 
+body > #frontendProducte {
+    display: none;
+}
+
 body > #frontendProductes > #productesContinguts {
+    flex-direction: row;
+    flex-wrap: wrap;
     width: 100%;
 }
 
@@ -76,4 +82,9 @@ body > #popups {
     display: none;
 }
 
-
+.producte {
+    border: solid 1px grey;
+    cursor: pointer;
+    margin: 8px;
+    padding: 8px;
+}
