@@ -88,3 +88,11 @@ body > #popups {
     margin: 8px;
     padding: 8px;
 }
+
+.detall {
+    background-color: #efefef;
+    border: solid 1px blue;
+    cursor: pointer;
+    margin: 8px;
+    padding: 8px;
+}
