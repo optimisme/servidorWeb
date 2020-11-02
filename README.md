@@ -31,7 +31,7 @@ Cal donar d'alta una base de dades:
 ```
 sudo mysql
 CREATE DATABASE serverDB DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
-GRANT ALL ON serverDB.* TO 'user'@'localhost' IDENTIFIED BY '8ase2pwd';
+GRANT ALL ON serverDB.* TO 'user'@'%' IDENTIFIED BY '8ase2pwd';
 FLUSH PRIVILEGES;
 exit;
 ```
